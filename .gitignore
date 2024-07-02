@@ -1,0 +1,14 @@
+# ignore venv
+.venv/
+
+# ignore build and dist directories 
+dist/
+build/
+
+# ignore other folders 
+networkVisualizer/
+quantagrad.egg-info/
+__pycache__/
+
+# ignore other files
+playground.ipynb
